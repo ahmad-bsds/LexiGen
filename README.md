@@ -128,4 +128,4 @@ LexiGen is a character-level bigram and MLP-based language model inspired by And
 
 1. Clone the repo or download the notebook:
    ```bash
-   git clone https://github.com/yourusername/lexigen.git
+   git clone https://github.com/yourusername/lexigen.git](https://github.com/ahmad-bsds/LexiGen.git
