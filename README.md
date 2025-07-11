@@ -5,6 +5,38 @@ LexiGen is a character-level bigram and MLP-based language model inspired by And
 
 ---
 
+### Sample Names generated
+- junido.
+- josalie.
+- part.
+- arold.
+- andie.
+- leonora.
+- juen.
+- burneta.
+- ernia.
+- vicie.
+- boninroie.
+- lessie.
+- evy.
+- arte.
+- farmunthia.
+- etma.
+- rosia.
+- lean.
+- jani.
+- core.
+- yse.
+- orett.
+- janith.
+- jomiif.
+- wynn.
+- sana.
+- saris.
+- iro.
+- sushaddis.
+- mattie.
+  
 ## 📂 Notebook Structure
 
 ### **1. Data**
